@@ -1,0 +1,5 @@
+2026-08-18 22:07:46,154 | INFO     | Row 1: order 1 processed successfully
+2026-08-18 22:07:46,155 | ERROR    | Row 2: bad qty/price ('not_a_number', '15.00') - invalid literal for int() with base 10: 'not_a_number' - SKIPPED
+2026-08-18 22:07:46,155 | ERROR    | Row 3: negative qty or price (1, -120.0) - SKIPPED
+2026-08-18 22:07:46,155 | INFO     | Row 4: order 4 processed successfully
+2026-08-18 22:07:46,155 | INFO     | Finished reading input CSV
