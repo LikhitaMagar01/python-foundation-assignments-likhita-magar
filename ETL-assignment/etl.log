@@ -1,0 +1,34 @@
+2026-09-23 21:37:24,817 [INFO] DBConnection class and hardening decorator created
+2026-09-23 21:37:24,948 [INFO] Idempodent schema created / verified successfully.
+2026-09-23 21:37:24,971 [INFO] Seed data populated successfully.
+2026-09-23 21:37:24,978 [INFO] Loaded/Upserted 3 summary records.
+2026-09-23 21:37:24,982 [WARNING] OperationalError encountered on attempt 1/3: connection to server at "localhost" (127.0.0.1), port 5999 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-09-23 21:37:25,984 [WARNING] OperationalError encountered on attempt 2/3: connection to server at "localhost" (127.0.0.1), port 5999 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-09-23 21:37:26,987 [WARNING] OperationalError encountered on attempt 3/3: connection to server at "localhost" (127.0.0.1), port 5999 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-09-23 21:37:26,989 [ERROR] Max retries reached.
+2026-09-23 21:37:26,991 [ERROR] Simulated failure confirmed after retries exhausted: connection to server at "localhost" (127.0.0.1), port 5999 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-09-23 21:38:15,639 [INFO] DBConnection class and hardening decorator created
+2026-09-23 21:38:15,768 [INFO] Idempodent schema created / verified successfully.
+2026-09-23 21:38:15,783 [INFO] Seed data populated successfully.
+2026-09-23 21:38:15,794 [INFO] Loaded/Upserted 3 summary records.
+2026-09-23 21:38:15,809 [WARNING] OperationalError encountered on attempt 1/3: connection to server at "localhost" (127.0.0.1), port 5999 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-09-23 21:38:16,812 [WARNING] OperationalError encountered on attempt 2/3: connection to server at "localhost" (127.0.0.1), port 5999 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-09-23 21:38:17,818 [WARNING] OperationalError encountered on attempt 3/3: connection to server at "localhost" (127.0.0.1), port 5999 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2026-09-23 21:38:17,822 [ERROR] Max retries reached.
+2026-09-23 21:38:17,827 [ERROR] Simulated failure confirmed after retries exhausted: connection to server at "localhost" (127.0.0.1), port 5999 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
