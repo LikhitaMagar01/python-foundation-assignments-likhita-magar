@@ -1,0 +1,127 @@
+student_id,name,city,subject,marks,attendance_percent,exam_date
+1014,Nisha Gurung,POKHARA,Databases,29,81.4,2026-02-22
+1035,Ojaswi Adhikari,  Birgunj ,Statistics,52,80.4,2026-01-17
+1036,Prakash Karki,DHARAN,Databases,71,89.8,2026-02-07
+1019,Tara Shrestha,  Kathmandu ,Machine Learning,76,81.4,2026-03-09
+1001,Aarav Shrestha,kathmandu,Databases,93,92.2,2026-01-29
+1009,Ishan Thapa,Biratnagar,Python Programming,98,61.2,2026-02-23
+1017,Rita Adhikari,Birgunj,Machine Learning,60,61.3,2026-03-01
+1026,Faiz Gurung,POKHARA,Databases,46,97.5,2026-03-13
+1024,Deepika Karki,dharan,Databases,36,72.2,2026-01-09
+1023,Chandni Adhikari,BIRGUNJ,Python Programming,,77.2,2026-02-15
+1003,Chandni Thapa,biratnagar,Linear Algebra,65,75.5,2026-03-30
+1038,Sujan Gurung,  Pokhara ,Linear Algebra,37,70.3,2026-03-09
+1031,Kiran Shrestha,KATHMANDU,Databases,44,86.1,2026-02-07
+1023,Chandni Adhikari,birgunj,Machine Learning,30,68.4,2026-01-15
+1029,Ishan Adhikari,birgunj,Machine Learning,91,,2026-03-20
+1030,Jyoti Karki,Dharan,Machine Learning,45,62.9,2026-03-26
+1027,Gita Thapa,BIRATNAGAR,Machine Learning,88,75.2,2026-02-17
+1017,Rita Adhikari,  Birgunj ,Statistics,49,87.4,2026-02-17
+1009,Ishan Thapa,Biratnagar,Statistics,47,66.6,2026-02-03
+1016,Prakash Rai,  Lalitpur ,Python Programming,42,75.4,2026-03-24
+1040,Umesh Rai,LALITPUR,Databases,33,70.2,2026-01-25
+1015,Ojaswi Thapa,  Biratnagar ,Databases,87,91.4,2026-01-15
+1035,Ojaswi Adhikari,BIRGUNJ,Python Programming,80,73.3,2026-02-21
+1020,Umesh Gurung,  Pokhara ,Linear Algebra,42,73.0,2026-03-26
+1022,Bibek Rai,LALITPUR,Statistics,86,61.3,2026-01-05
+1026,Faiz Gurung,  Pokhara ,Linear Algebra,28,80.4,2026-01-08
+1003,Chandni Thapa,Biratnagar,Machine Learning,38,85.3,2026-02-14
+1006,Faiz Karki,dharan,Linear Algebra,44,71.7,2026-02-23
+1009,Ishan Thapa,Biratnagar,Databases,59,,2026-01-25
+1030,Jyoti Karki,  Dharan ,Statistics,95,62.2,2026-03-15
+1004,Deepika Rai,Lalitpur,Machine Learning,65,70.2,2026-01-07
+1030,Jyoti Karki,  Dharan ,Linear Algebra,54,92.6,2026-03-14
+1013,Manish Shrestha,  Kathmandu ,Python Programming,67,97.3,2026-01-07
+1039,Tara Thapa,  Biratnagar ,Machine Learning,60,65.0,2026-02-17
+1024,Deepika Karki,Dharan,Machine Learning,90,95.2,2026-02-01
+1019,Tara Shrestha,KATHMANDU,Statistics,85,67.1,2026-01-09
+1037,Rita Shrestha,kathmandu,Python Programming,73,98.6,2026-03-25
+1035,Ojaswi Adhikari,BIRGUNJ,Python Programming,80,73.3,2026-02-21
+1035,Ojaswi Adhikari,Birgunj,Linear Algebra,29,67.2,2026-01-15
+1040,Umesh Rai,  Lalitpur ,Machine Learning,49,92.2,2026-03-15
+1004,Deepika Rai,LALITPUR,Linear Algebra,36,78.5,2026-01-18
+1038,Sujan Gurung,pokhara,Statistics,43,87.8,2026-03-19
+1027,Gita Thapa,BIRATNAGAR,Databases,96,73.6,2026-02-25
+1025,Esha Shrestha,  Kathmandu ,Linear Algebra,39,87.6,2026-03-02
+1037,Rita Shrestha,kathmandu,Databases,71,66.2,2026-01-17
+1006,Faiz Karki,Dharan,Databases,52,73.0,2026-01-29
+1003,Chandni Thapa,Biratnagar,Statistics,63,71.1,2026-03-16
+1007,Gita Shrestha,KATHMANDU,Python Programming,61,52.5,2026-03-24
+1012,Laxmi Karki,  Dharan ,Databases,94,79.5,2026-01-22
+1032,Laxmi Gurung,  Pokhara ,Machine Learning,150,57.4,2026-03-10
+1018,Sujan Karki,dharan,Statistics,56,79.4,2026-02-14
+1039,Tara Thapa,  Biratnagar ,Linear Algebra,150,64.1,2026-02-25
+1039,Tara Thapa,biratnagar,Python Programming,53,82.5,2026-01-06
+1028,Hari Rai,LALITPUR,Python Programming,47,62.7,2026-02-10
+1034,Nisha Rai,lalitpur,Machine Learning,35,58.3,2026-03-05
+1033,Manish Thapa,biratnagar,Statistics,93,94.5,2026-03-07
+1018,Sujan Karki,  Dharan ,Databases,63,90.6,2026-01-19
+1008,Hari Gurung,  Pokhara ,Machine Learning,37,56.2,2026-03-20
+1040,Umesh Rai,lalitpur,Linear Algebra,40,,2026-03-28
+1028,Hari Rai,lalitpur,Machine Learning,,85.0,2026-01-07
+1028,Hari Rai,Lalitpur,Databases,52,71.7,2026-01-08
+1014,Nisha Gurung,Pokhara,Python Programming,73,,2026-03-06
+1013,Manish Shrestha,KATHMANDU,Statistics,37,55.5,2026-03-15
+1011,Kiran Adhikari,birgunj,Linear Algebra,36,64.7,2026-03-03
+1011,Kiran Adhikari,Birgunj,Statistics,63,62.0,2026-01-31
+1019,Tara Shrestha,  Kathmandu ,Databases,33,83.9,2026-02-09
+1036,Prakash Karki,Dharan,Statistics,42,87.0,2026-01-25
+1010,Jyoti Rai,LALITPUR,Python Programming,60,63.2,2026-02-24
+1021,Aarav Thapa,BIRATNAGAR,Machine Learning,53,61.4,2026-03-06
+1032,Laxmi Gurung,  Pokhara ,Databases,44,61.4,2026-03-26
+1018,Sujan Karki,Dharan,Linear Algebra,45,75.3,2026-01-10
+1020,Umesh Gurung,Pokhara,Python Programming,62,63.2,2026-01-23
+1023,Chandni Adhikari,Birgunj,Statistics,43,62.0,2026-02-23
+1006,Faiz Karki,DHARAN,Python Programming,81,98.5,2026-01-05
+1002,Bibek Gurung,pokhara,Python Programming,48,81.3,2026-03-13
+1015,Ojaswi Thapa,Biratnagar,Python Programming,39,82.1,2026-02-06
+1036,Prakash Karki,Dharan,Machine Learning,79,58.3,2026-02-16
+1033,Manish Thapa,Biratnagar,Python Programming,51,,2026-01-27
+1021,Aarav Thapa,  Biratnagar ,Linear Algebra,50,62.6,2026-02-18
+1017,Rita Adhikari,BIRGUNJ,Linear Algebra,84,75.4,2026-02-04
+1020,Umesh Gurung,pokhara,Machine Learning,45,71.0,2026-01-29
+1034,Nisha Rai,LALITPUR,Linear Algebra,73,72.2,2026-03-22
+1005,Esha Adhikari,Birgunj,Linear Algebra,67,67.6,2026-02-26
+1008,Hari Gurung,  Pokhara ,Databases,29,80.3,2026-02-21
+1024,Deepika Karki,  Dharan ,Statistics,70,84.3,2026-01-22
+1016,Prakash Rai,Lalitpur,Linear Algebra,39,,2026-02-03
+1002,Bibek Gurung,Pokhara,Statistics,87,67.3,2026-03-21
+1031,Kiran Shrestha,Kathmandu,Machine Learning,52,93.7,2026-01-22
+1033,Manish Thapa,Biratnagar,Machine Learning,89,57.0,2026-01-09
+1034,Nisha Rai,LALITPUR,Python Programming,,67.4,2026-03-05
+1031,Kiran Shrestha,KATHMANDU,Databases,44,86.1,2026-02-07
+1027,Gita Thapa,biratnagar,Python Programming,43,75.1,2026-01-26
+1001,Aarav Shrestha,kathmandu,Statistics,40,,2026-01-23
+1029,Ishan Adhikari,BIRGUNJ,Linear Algebra,83,53.1,2026-03-27
+1007,Gita Shrestha,kathmandu,Machine Learning,40,54.0,2026-01-23
+1026,Faiz Gurung,pokhara,Statistics,,61.4,2026-03-14
+1014,Nisha Gurung,Pokhara,Statistics,81,96.4,2026-01-08
+1012,Laxmi Karki,dharan,Python Programming,75,77.0,2026-01-21
+1013,Manish Shrestha,KATHMANDU,Databases,37,74.7,2026-02-13
+1007,Gita Shrestha,  Kathmandu ,Linear Algebra,54,60.8,2026-03-23
+1022,Bibek Rai,  Lalitpur ,Databases,92,89.4,2026-02-17
+1025,Esha Shrestha,KATHMANDU,Statistics,94,,2026-03-17
+1029,Ishan Adhikari,Birgunj,Statistics,93,81.3,2026-01-30
+1004,Deepika Rai,  Lalitpur ,Python Programming,28,62.0,2026-01-11
+1022,Bibek Rai,lalitpur,Linear Algebra,56,56.1,2026-02-23
+1008,Hari Gurung,Pokhara,Python Programming,44,97.1,2026-03-07
+1002,Bibek Gurung,  Pokhara ,Databases,32,60.9,2026-02-04
+1005,Esha Adhikari,BIRGUNJ,Databases,53,88.6,2026-02-08
+1015,Ojaswi Thapa,Biratnagar,Python Programming,39,82.1,2026-02-06
+1002,Bibek Gurung,pokhara,Python Programming,48,81.3,2026-03-13
+1010,Jyoti Rai,Lalitpur,Statistics,90,65.8,2026-01-27
+1010,Jyoti Rai,  Lalitpur ,Linear Algebra,34,56.9,2026-01-09
+1012,Laxmi Karki,  Dharan ,Statistics,45,93.9,2026-02-16
+1025,Esha Shrestha,KATHMANDU,Statistics,94,,2026-03-17
+1001,Aarav Shrestha,Kathmandu,Linear Algebra,93,74.4,2026-03-24
+1005,Esha Adhikari,birgunj,Python Programming,43,58.3,2026-01-17
+1038,Sujan Gurung,pokhara,Machine Learning,55,83.0,2026-03-18
+1011,Kiran Adhikari,  Birgunj ,Python Programming,89,78.3,2026-03-24
+1032,Laxmi Gurung,  Pokhara ,Linear Algebra,30,56.5,2026-03-18
+1021,Aarav Thapa,Biratnagar,Python Programming,29,,2026-03-14
+1031,Kiran Shrestha,kathmandu,Statistics,68,93.9,2026-01-29
+1010,Jyoti Rai,Lalitpur,Statistics,90,65.8,2026-01-27
+1025,Esha Shrestha,  Kathmandu ,Databases,65,91.1,2026-03-17
+1016,Prakash Rai,LALITPUR,Statistics,90,64.0,2026-01-06
+1037,Rita Shrestha,kathmandu,Machine Learning,79,61.7,2026-01-28
+1015,Ojaswi Thapa,  Biratnagar ,Linear Algebra,70,70.3,2026-03-20
